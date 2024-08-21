@@ -32,7 +32,7 @@
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="230" id="bMu-oK-jI2"/>
                                             <constraint firstAttribute="height" constant="60" id="szc-9z-u5Q"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" type="system" weight="thin" pointSize="50"/>
+                                        <fontDescription key="fontDescription" type="system" weight="light" pointSize="50"/>
                                         <color key="textColor" name="Title Color"/>
                                         <nil key="highlightedColor"/>
                                     </label>
@@ -104,7 +104,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-30" y="106"/>
+            <point key="canvasLocation" x="139" y="118"/>
         </scene>
     </scenes>
     <resources>
